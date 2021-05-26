@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://flutter.fyi/</loc>
+    <lastmod>2021-05-25T23:12:11-04:00</lastmod>
+  </url><url>
+    <loc>https://flutter.fyi/tags/dart/</loc>
+    <lastmod>2021-05-25T23:03:54-04:00</lastmod>
+  </url><url>
+    <loc>https://flutter.fyi/tags/flutter/</loc>
+    <lastmod>2021-05-25T23:03:54-04:00</lastmod>
+  </url><url>
+    <loc>https://flutter.fyi/tags/general/</loc>
+    <lastmod>2021-05-25T23:03:54-04:00</lastmod>
+  </url><url>
+    <loc>https://flutter.fyi/hello-world/</loc>
+    <lastmod>2021-05-25T23:03:54-04:00</lastmod>
+  </url><url>
+    <loc>https://flutter.fyi/post/</loc>
+    <lastmod>2021-05-25T23:03:54-04:00</lastmod>
+  </url><url>
+    <loc>https://flutter.fyi/tags/</loc>
+    <lastmod>2021-05-25T23:03:54-04:00</lastmod>
+  </url><url>
+    <loc>https://flutter.fyi/about/</loc>
+    <lastmod>2021-05-25T23:03:31-04:00</lastmod>
+  </url>
+</urlset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flutter on Flutter.FYI</title>
+    <link>https://flutter.fyi/tags/flutter/</link>
+    <description>Recent content in flutter on Flutter.FYI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 May 2021 23:03:54 -0400</lastBuildDate><atom:link href="https://flutter.fyi/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, Flutterverse!</title>
+      <link>https://flutter.fyi/hello-world/</link>
+      <pubDate>Tue, 25 May 2021 23:03:54 -0400</pubDate>
+      
+      <guid>https://flutter.fyi/hello-world/</guid>
+      <description>The customary way to start any learning journey is with a &amp;ldquo;Hello World&amp;rdquo; program. And by extension, the best way to kickstart a new blog is with a &amp;ldquo;Hello, Flutterverse!&amp;rdquo; post that talks about its motivation and objectives.
+Past History I first learned about Flutter in late 2016 from a Google Developer Expert, in a DevFest conference talk. By 2017, there was a preview version to explore - and as a mobile developer, I was hooked.</description>
+    </item>
+    
+  </channel>
+</rss>

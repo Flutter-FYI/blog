@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome To Flutter.FYI on Flutter.FYI</title>
+    <link>https://flutter.fyi/</link>
+    <description>Recent content in Welcome To Flutter.FYI on Flutter.FYI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 May 2021 23:12:11 -0400</lastBuildDate><atom:link href="https://flutter.fyi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, Flutterverse!</title>
+      <link>https://flutter.fyi/hello-world/</link>
+      <pubDate>Tue, 25 May 2021 23:03:54 -0400</pubDate>
+      
+      <guid>https://flutter.fyi/hello-world/</guid>
+      <description>The customary way to start any learning journey is with a &amp;ldquo;Hello World&amp;rdquo; program. And by extension, the best way to kickstart a new blog is with a &amp;ldquo;Hello, Flutterverse!&amp;rdquo; post that talks about its motivation and objectives.
+Past History I first learned about Flutter in late 2016 from a Google Developer Expert, in a DevFest conference talk. By 2017, there was a preview version to explore - and as a mobile developer, I was hooked.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://flutter.fyi/about/</link>
+      <pubDate>Tue, 25 May 2021 23:03:31 -0400</pubDate>
+      
+      <guid>https://flutter.fyi/about/</guid>
+      <description>Welcome to the home page for @flutterfyi! This is a blog/website setup to document my learning journey with Flutter and Dart, starting with Flutter v2.2.
+Cross-Platform App Development While my earlier exploration of Flutter focused on mobile (Android/iOS) app development, my primary goal now is to revisit this in three contexts:
+ Language / Proficiency in Dart programming! Cross-Platform / Best practices for dev across mobile, desktop &amp;amp; web. Multi-Cloud / Integration with backend cloud, AI &amp;amp; support services  Dual Screen and Foldable Design A secondary goal is to explore new user experiences enabled by the foldable class of mobile devices, with initial focus on dual-screen devices like the Microsoft Surface Duo.</description>
+    </item>
+    
+  </channel>
+</rss>
