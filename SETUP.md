@@ -46,6 +46,7 @@ $ hugo new _index.md
 
 Complete other config steps:
  * Update config.yaml metadata
+ * Set `publishDir` to `../docs` in config
  * Add favicon images
  * Add logo images
  * Update about, _index.md (Homepage)

@@ -7,6 +7,12 @@ googleAnalytics: #UA-123456789-1
 disqusShortname: #yourdiscussshortname
 enableGitInfo: true
 
+
+# -- set build target directory
+publishdir: "../docs" 
+
+
+
 taxonomies:
   tag: tags
 
